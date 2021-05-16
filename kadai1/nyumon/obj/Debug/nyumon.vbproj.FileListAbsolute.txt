@@ -1,0 +1,12 @@
+C:\Users\nozawa\source\repos\nyumon\nyumon\bin\Debug\nyumon.exe.config
+C:\Users\nozawa\source\repos\nyumon\nyumon\bin\Debug\nyumon.exe
+C:\Users\nozawa\source\repos\nyumon\nyumon\bin\Debug\nyumon.pdb
+C:\Users\nozawa\source\repos\nyumon\nyumon\bin\Debug\nyumon.xml
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.vbprojAssemblyReference.cache
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.Form1.resources
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.Resources.resources
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.vbproj.GenerateResource.cache
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.vbproj.CoreCompileInputs.cache
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.exe
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.xml
+C:\Users\nozawa\source\repos\nyumon\nyumon\obj\Debug\nyumon.pdb

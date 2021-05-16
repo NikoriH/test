@@ -1,0 +1,12 @@
+C:\Users\nozawa\source\repos\kadai\kadai\bin\Debug\kadai.exe.config
+C:\Users\nozawa\source\repos\kadai\kadai\bin\Debug\kadai.exe
+C:\Users\nozawa\source\repos\kadai\kadai\bin\Debug\kadai.pdb
+C:\Users\nozawa\source\repos\kadai\kadai\bin\Debug\kadai.xml
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.vbprojAssemblyReference.cache
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.Form1.resources
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.Resources.resources
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.vbproj.GenerateResource.cache
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.vbproj.CoreCompileInputs.cache
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.exe
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.xml
+C:\Users\nozawa\source\repos\kadai\kadai\obj\Debug\kadai.pdb
